@@ -1,4 +1,4 @@
-# Lab Assignment 01, Due Jan. 18
+# Lab Assignment 01, Due on [Canvas](https://psu.instructure.com/courses/2174978/assignments/13784934?module_item_id=34877018) at Jan. 19 at 11:59pm
 ## Introduction to Jupyter Notebooks Using Google Colabs
 
 The main objective of today's lab is to set up your google colab environment and run python code in a Jupyter notebook. There is also a secondary objective, which is outlined below.  First, work through the following steps:
